@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-01-01T00:00:00.000Z",
+  "hoursPerWeek": 20,
+  "totalQueuedHours": 0,
+  "queuedWeeks": 0,
+  "includesScores": false,
+  "requests": []
+}
